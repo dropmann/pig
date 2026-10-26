@@ -1,0 +1,23 @@
+---
+title: Pig
+name: pig
+version: 0.0.1
+jms: '1.0'
+authors:
+  - Damian Dropmann
+maintainer: Damian Dropmann <damiandropmann@gmail.com>
+date: '2026-09-24'
+type: R
+description: >-
+  A minimal module which draws a pig as a results SVG element.
+analyses:
+  - title: Pig
+    name: pig
+    ns: pig
+    menuGroup: Pig
+    menuTitle: Pig
+    description: Draws a pig.
+usesNative: true
+minApp: 2.7.32
+
+...

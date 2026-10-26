@@ -1,0 +1,11 @@
+---
+name:  pig
+title: Pig
+jrs:   '1.1'
+
+items:
+    - name: pig
+      title: Pig
+      type: Svg
+
+...

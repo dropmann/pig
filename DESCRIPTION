@@ -1,0 +1,10 @@
+Package: pig
+Type: Package
+Title: Pig
+Version: 0.0.1
+Author: Damian Dropmann
+Maintainer: Damian Dropmann <damiandropmann@gmail.com>
+Description: A minimal module which draws a pig as a results SVG element.
+License: GPL-3
+Encoding: UTF-8
+Imports: jmvcore (>= 0.8.5), R6

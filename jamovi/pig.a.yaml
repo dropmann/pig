@@ -1,0 +1,15 @@
+---
+name:  pig
+title: Pig
+menuGroup: Pig
+version: '0.0.1'
+jas: '1.2'
+
+description:
+    main: Draws a pig.
+
+options:
+    - name: data
+      type: Data
+
+...
